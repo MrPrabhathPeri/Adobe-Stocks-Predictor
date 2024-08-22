@@ -1,4 +1,4 @@
-#Stock Price Predictor
+# Stock Price Predictor
 
 ## Overview
 This project uses machine learning to predict Adobe stock prices. The model is built using historical stock price data to forecast future prices.
